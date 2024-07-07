@@ -1,5 +1,5 @@
 <!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+<img src="">
 
 <!-- BREVE DESCRIPCION -->
 <h1 align="center">Hi 👋, I'm Lucas Yusta</h1>
