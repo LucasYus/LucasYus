@@ -21,7 +21,7 @@
 
 ## <b>My badges</b>
  <a href="https://www.credly.com/badges/c81c0f71-5d3b-4fb0-96eb-e60583435218/public_url" target="_blank">
-        <img src="https://github.com/LucasYus/Pictures/blob/main/associate-cloud-engineer-certification.png">
+        <img src="https://github.com/LucasYus/Pictures/blob/main/associate-cloud-engineer-certification%20(1).png">
 
 <!-- CONTACT ME -->
 ## <b> Let's Connect..!</b>🤝​
