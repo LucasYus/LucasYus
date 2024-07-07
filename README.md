@@ -12,9 +12,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" style="height: 4rem; background-color:white"/>
 <img src="https://www.svgrepo.com/show/353443/aws.svg" style="height: 4rem; background-color:white"/>
 <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-512x412-8rnz6wkz.png" style="height: 4rem; background-color:white"/>
+<img src="https://logos-world.net/wp-content/uploads/2023/06/Kubernetes-Symbol.png" style="height:4rem; background-color:white"/>
 <img src="https://www.svgrepo.com/show/376353/terraform.svg" style="height: 4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height:4rem; background-color:white"/>
-<img src="https://logos-world.net/wp-content/uploads/2023/06/Kubernetes-Symbol.png" style="height:4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
