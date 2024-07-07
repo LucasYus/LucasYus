@@ -15,9 +15,9 @@
 <img src="https://logos-world.net/wp-content/uploads/2023/06/Kubernetes-Symbol.png" style="height:4rem; background-color:white"/>
 <img src="https://www.svgrepo.com/show/376353/terraform.svg" style="height: 4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height:4rem; background-color:white"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-html-59-225995.png?f=webp&w=128" style="height:4rem; background-color:white"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" style="height:4rem; background-color:white"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png" style="height:4rem; background-color:white"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-html-59-225995.png?f=webp&w=128" style="height:5rem; background-color:white"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" style="height:5rem; background-color:white"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png" style="height:5rem; background-color:white"/>
 
 <!-- CONTACT ME -->
 ## <b> Let's Connect..!</b>🤝​
