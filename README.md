@@ -4,15 +4,16 @@
 <h1 align="center">I've worked with</h1>
 
 <p align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/free-powershell-3628993-3030218.png" style="height: 4rem"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg" style="height:4rem; background-color:white"/>
-<img src="" style="height: 4rem; background-color:white"/>
-<img src="" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height:4rem; background-color:white"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" style="height: 4rem; background-color:white"/>
+<img src="https://www.svgrepo.com/show/353443/aws.svg" style="height: 4rem; background-color:white"/>
+<img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-512x412-8rnz6wkz.png" style="height: 4rem; background-color:white"/>
 <img src="https://www.svgrepo.com/show/376353/terraform.svg" style="height: 4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height:4rem; background-color:white"/>
-<img src="" style="height: 4rem; background-color:white"/>
+
 
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
