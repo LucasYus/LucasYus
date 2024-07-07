@@ -2,7 +2,7 @@
 <img src="https://www.flickr.com/photos/200375691@N08/53840306587/in/dateposted-friend/">
 
 <!-- BREVE DESCRIPCION -->
-<h1 align="center">Hi 👋, I'm Lucas Yusta</h1>
+<h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">I'm a proactive and curious person specializing in systems administration and public clouds like Azure and AWS. I love taking on new challenges and always learning about new tech.</h3>
 
 <!-- TECHNOLOGY -->
