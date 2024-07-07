@@ -1,5 +1,5 @@
 <!-- GIF HEADER -->
-<img src="">
+<img src="https://www.flickr.com/photos/200375691@N08/53840306587/in/dateposted-friend/">
 
 <!-- BREVE DESCRIPCION -->
 <h1 align="center">Hi 👋, I'm Lucas Yusta</h1>
