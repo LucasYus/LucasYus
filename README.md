@@ -3,7 +3,7 @@
 
 <!-- BREVE DESCRIPCION -->
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">I'm a Cloud Engineer and Architect specializing in systems administration and public clouds like Azure, AWS, and Google Cloud Platform (GCP). I love taking on new challenges and always learning about new tech.</h3>
+<h3 align="center">I'm a Cloud Engineer & Architect specializing in systems administration and public clouds like Azure, AWS, and Google Cloud Platform (GCP). I love taking on new challenges and always learning about new tech.</h3>
 
 <!-- TECHNOLOGY -->
 <h1 align="center">I've worked with</h1>
