@@ -6,7 +6,7 @@
 <h3 align="center">I'm a Cloud Engineer & Architect specializing in systems administration and public clouds like Azure, AWS, and Google Cloud Platform (GCP). I love taking on new challenges and always learning about new tech.</h3>
 
 <!-- TECHNOLOGY -->
-<h1 align="center">I've worked with</h1>
+<h1 align="center">I've worked with 💻​</h1>
 
 <p align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/free-powershell-3628993-3030218.png" style="height: 4rem"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" style="height: 4rem; background-color:white"/>
@@ -19,7 +19,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" style="height:5rem; background-color:white"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png" style="height:5rem; background-color:white"/>
 
-## <b>My badges</b>
+## <b>My badges 🏅​</b>
 
 <a href="https://learn.microsoft.com/api/credentials/share/es-es/LucasYustaSalvadores-6533/49992A12035CE99F?sharingId" target="_blank">
         <img src="https://github.com/LucasYus/Pictures/blob/main/microsoft-certified-associate-badge.svg" width="153" height="153">
