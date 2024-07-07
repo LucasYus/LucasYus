@@ -1,9 +1,11 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
+<!-- BREVE DESCRIPCION -->
 <h1 align="center">Hi 👋, I'm Lucas Yusta</h1>
 <h3 align="center">I'm a proactive and curious person specializing in systems administration and public clouds like Azure and AWS. I love taking on new challenges and always learning about new tech.</h3>
 
+<!-- TECHNOLOGY -->
 <h1 align="center">I've worked with</h1>
 
 <p align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/free-powershell-3628993-3030218.png" style="height: 4rem"/>
@@ -18,8 +20,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height:4rem; background-color:white"/>
 
 
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<!-- CONTACT ME -->
+## <b> Let's Connect..!</b>🤝🏻
 <br>
 <div align='left'>
 
