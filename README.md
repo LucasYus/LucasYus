@@ -4,7 +4,8 @@
 <!-- BREVE DESCRIPCION -->
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">I'm a Cloud Engineer & Architect specializing in systems administration and public clouds like Azure, AWS, and Google Cloud Platform (GCP). I love taking on new challenges and always learning about new tech.</h3>
-
+<br>
+<br>
 <!-- TECHNOLOGY -->
 <h1 align="center">I've worked with 💻​</h1>
 
@@ -19,7 +20,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" style="height:5rem; background-color:white"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png" style="height:5rem; background-color:white"/>
 
-## <b>My badges 🏅​</b>
+<h1 align="center">My badges 🏅</h1>
 
 <a href="https://learn.microsoft.com/api/credentials/share/es-es/LucasYustaSalvadores-6533/49992A12035CE99F?sharingId" target="_blank">
         <img src="https://github.com/LucasYus/Pictures/blob/main/microsoft-certified-associate-badge.svg" width="153" height="153">
@@ -42,7 +43,7 @@
 
 
 <!-- CONTACT ME -->
-## <b> Let's Connect..!</b>🤝​
+<h1 align="center">Let's Connect..!🤝​</h1>
 <br>
 <div align='left'>
 
