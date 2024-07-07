@@ -1,5 +1,5 @@
 <!-- GIF HEADER -->
-<img src="https://github.com/LucasYus/Pictures/blob/main/Grey%20Simple%20Business%20Corporate%20LinkedIn%20Banner%20(1).png">
+<img src="https://github.com/LucasYus/Pictures/blob/main/Azul%20L%C3%ADneas%20Limpio%20Minimalista%20Banner%20de%20Twitch.gif">
 
 <!-- BREVE DESCRIPCION -->
 <h1 align="center">Hi 👋, I'm Lucas</h1>
