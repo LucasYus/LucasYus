@@ -22,22 +22,22 @@
 ## <b>My badges</b>
 
 <a href="https://learn.microsoft.com/api/credentials/share/es-es/LucasYustaSalvadores-6533/49992A12035CE99F?sharingId" target="_blank">
-        <img src="https://github.com/LucasYus/Pictures/blob/main/microsoft-certified-associate-badge.svg">
+        <img src="https://github.com/LucasYus/Pictures/blob/main/microsoft-certified-associate-badge.svg" width="153" height="153">
 
-<a href="" target="_blank">
-        <img src="https://github.com/LucasYus/Pictures/blob/main/microsoft-certified-fundamentals-badge.svg">
+  <a href="https://learn.microsoft.com/api/credentials/share/es-es/LucasYustaSalvadores-6533/64914C7C239DE8DC?sharingId" target="_blank">
+        <img src="https://github.com/LucasYus/Pictures/blob/main/microsoft-certified-associate-badge.svg" width="153" height="153">
 
- <a href="" target="_blank">
-        <img src="https://github.com/LucasYus/Pictures/blob/main/aws-certified-solutions-architect-associate%20(1).png">
+<a href="https://learn.microsoft.com/es-es/users/lucasyustasalvadores-6533/credentials/certification/azure-fundamentals?tab=credentials-tab" target="_blank">
+        <img src="https://github.com/LucasYus/Pictures/blob/main/microsoft-certified-fundamentals-badge.svg" width="153" height="153">
 	 
  <a href="https://www.credly.com/badges/600a77e5-b376-43e5-98a9-088440e94c08/public_url" target="_blank">
-        <img src="https://github.com/LucasYus/Pictures/blob/main/aws-certified-solutions-architect-associate%20(1).png">
+        <img src="https://github.com/LucasYus/Pictures/blob/main/aws-certified-solutions-architect-associate%20(1).png" width="153" height="153">
 
  <a href="https://www.credly.com/badges/a858f83d-4ea4-42ce-a932-cf0c12f857eb/public_url" target="_blank">
         <img src="https://github.com/LucasYus/Pictures/blob/main/hashicorp-certified-terraform-associate-003.png">
 
  <a href="https://www.credly.com/badges/c81c0f71-5d3b-4fb0-96eb-e60583435218/public_url" target="_blank">
-        <img src="https://github.com/LucasYus/Pictures/blob/main/associate-cloud-engineer-certification%20(1).png">
+        <img src="https://github.com/LucasYus/Pictures/blob/main/associate-cloud-engineer-certification%20(1).png" width="153" height="153">
 	 
 
 
